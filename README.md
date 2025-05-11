@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1080&color=915F00&width=435&lines=I+am+Suyeon+Kim%2C+a+full-stack+developer" alt="Typing SVG" /></a><p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1080&color=FFB6FF&width=435&lines=I+am+Suyeon+Kim%2C+a+full-stack+developer" alt="Typing SVG" /></a><p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" style="vertical-align: middle;" />
   <strong>WELCOME</strong>
   매일 성장하는 개발자, 김수연입니다!
